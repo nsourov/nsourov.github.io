@@ -1,6 +1,6 @@
 # Gatsby Portfolio
 
-#### My personal website - Built with [Gatsby.js](https://www.gatsbyjs.org/) and Published at [here](https://naimur.me)
+#### My personal website - Built with [Gatsby.js](https://www.gatsbyjs.org/) and Published at [here](https://naimur.dev)
 
 This is the first iteration of my personal website. The project is under ongoing development. However, feel free to use it as a basis for your own portfolio - please just read the note below first. And if you find any bugs or improvements, let me know!
 
@@ -26,6 +26,6 @@ Run development server and enjoy
 
 ## About
 
-[Naimur Rahman](https://naimur.me) – [naimur.rahman103@gmail.com](mailto:naimur.rahman103@gmail.com)
+[Naimur Rahman](https://naimur.dev) – [naimur.rahman103@gmail.com](mailto:naimur.rahman103@gmail.com)
 
 [https://github.com/nsourov](https://github.com/nsourov)

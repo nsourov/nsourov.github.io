@@ -5,7 +5,7 @@ module.exports = {
   siteShortTitle: "nr.", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "Hi there! I'm Naimur Rahman, a full-stack software developer based in Bangladesh.",
-  siteUrl: "https://naimur.me",
+  siteUrl: "https://naimur.dev",
   siteLanguage: "en_US",
   seoTitleSuffix: "Naimur Rahman", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
   useCookieBar: true, // If you use Google Analytics and want to be GDPR-compliant, set it to true
