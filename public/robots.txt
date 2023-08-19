@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://naimur.dev/sitemap-index.xml
+Host: https://naimur.dev
