@@ -79,10 +79,10 @@ module.exports = {
       //   url: "/#articles",
       // },
     ],
-    button: {
-      useFileName: true,
-      name: "Resume",
-      fileName: "Resume.pdf", // the file has to be placed inside the static folder at the root level
-    },
+    // button: {
+    //   useFileName: true,
+    //   name: "Resume",
+    //   fileName: "Resume.pdf", // the file has to be placed inside the static folder at the root level
+    // },
   },
 }
